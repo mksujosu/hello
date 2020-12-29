@@ -1,3 +1,3 @@
-module github.com/hello/jack
+module github.com/mksujosu/hello
 
 go 1.13
